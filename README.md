@@ -17,20 +17,20 @@ This project not only demonstrates the **practical application of OOP (Object Or
 This project demonstrates a practical blend of Python fundamentals and intermediate programming concepts, specifically tailored to building interactive games using the **Turtle Graphics** library. Below are the key technologies and concepts leveraged:  
 
 - 🐍 **Python 3**: Core programming language used to implement the entire project logic.  
-- 🐢 **Turtle Graphics Module**: Utilized to create the game’s visual environment, player-controlled turtle, and moving traffic cars.  
-- 🧮 **Object-Oriented Programming (OOP)**:  
+- 🐢 **Turtle Graphics Module**: Utilized to create the game’s visual environment, player controlled turtle, and moving traffic cars.  
+- 🧮 **Object Oriented Programming (OOP)**:  
   - Classes and objects encapsulate player, car, and game mechanics.  
   - Inheritance and modular design improve reusability and scalability.  
 - 🔄 **Event Handling**: Keybindings (`onkeypress`) allow the player to control the turtle character seamlessly.  
 - ⏱️ **Game Loop Logic**: A continuous loop structure is used to update car movement, collision checks, and game progress.  
-- 🎮 **Collision Detection**: Algorithmic logic to identify overlaps between the turtle and cars for accurate game-over scenarios.  
+- 🎮 **Collision Detection**: Algorithmic logic to identify overlaps between the turtle and cars for accurate game over scenarios.  
 - 📏 **Level Progression System**:  
   - Increasing car speed with each completed level.  
   - Enhanced difficulty curve to ensure challenging yet engaging gameplay.  
 - 🧩 **Modular Code Architecture**: Each functionality (player, car manager, scoreboard) is isolated into separate modules for clarity, maintainability, and scalability.  
 - 🖥️ **Clean UI/UX with Turtle**: Designed to mimic a retro arcade feel using simple yet effective visuals.  
 
-> ✅ *This project is not only a fun gaming experience but also an excellent case study for strengthening Python OOP, event-driven programming, and modular design principles.*  
+> ✅ *This project is not only a fun gaming experience but also an excellent case study for strengthening Python OOP, event driven programming, and modular design principles.*  
 
 ---
 
