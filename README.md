@@ -185,13 +185,13 @@ At higher levels, cars appear **frequently and at lightning speeds**, pushing th
 
 ## 📜 Credits  
 
-This project was developed as part of my learning journey through **“100 Days of Code: The Complete Python Pro Bootcamp” by Dr. Angela Yu**. The course provided the foundational concepts and guided exercises, while I extended the implementation into a **fully modular and scalable arcade-style game**.  
+This project was developed as part of my learning journey through **“100 Days of Code: The Complete Python Pro Bootcamp” by Dr. Angela Yu**. The course provided the foundational concepts and guided exercises, while I extended the implementation into a **fully modular and scalable arcade style game**.  
 
 - 👨‍💻 **Development & Implementation** – Designed, coded, and optimized all mechanics including **player movement**, **vehicle management**, and **dynamic difficulty scaling**.  
-- 📂 **Project Architecture** – Organized into a clean, multi-file structure (`player.py`, `car_manager.py`, `scoreboard.py`, `main.py`) for clarity, maintainability, and professional code practices.  
+- 📂 **Project Architecture** – Organized into a clean, multi file structure (`player.py`, `car_manager.py`, `scoreboard.py`, `main.py`) for clarity, maintainability, and professional code practices.  
 - 🧩 **Enhancements Beyond Core Learning** – Added structured documentation, detailed README, refined collision handling, and scalable difficulty mechanics to elevate the project beyond a simple exercise into a polished showcase.  
 - 🐢 **Graphics & Engine** – Powered entirely by Python’s `turtle` graphics library, proving its versatility in building interactive, visually appealing applications.  
 
-> This project not only reflects the progress made during the course but also demonstrates an ability to **translate foundational programming concepts into a professional, real-world styled project**.  
+> This project not only reflects the progress made during the course but also demonstrates an ability to **translate foundational programming concepts into a professional, real world styled project**.  
 
 ---
