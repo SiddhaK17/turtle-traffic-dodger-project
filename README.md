@@ -6,7 +6,7 @@ A fast paced arcade style game built with Python’s `turtle` graphics library, 
 ## 📖 Overview  
 The **Turtle Traffic Dodger Project** is a Python based interactive game designed to simulate the thrill of navigating through an unpredictable and high speed traffic environment. Developed using the `turtle` graphics module, this project merges **core programming principles** with **creative problem solving** to create a fun yet technically insightful experience.  
 
-At its core, the player controls a turtle that must **strategically dodge moving cars** while progressing upward across the screen. As levels advance, the gameplay intensifies: cars accelerate, spawn density increases, and the difficulty curve grows sharper, demanding quick decision making and flawless timing.  
+At its core, the player controls a turtle that must **strategically dodge moving cars** while progressing upward across the screen. As levels advance, the gameplay intensifies: cars accelerate, and the difficulty curve grows sharper, demanding quick decision making and more precise movement from the player.
 
 This project not only demonstrates the **practical application of OOP (Object Oriented Programming)** in Python but also introduces concepts such as **event driven programming**, **modular design**, and **dynamic difficulty scaling**. It emphasizes how fundamental programming concepts can be combined to build visually interactive and challenging applications. And it's an excellent example of how python libraries can be leveraged to create polished, engaging, and replayable games while reinforcing computer science fundamentals.
 
@@ -75,7 +75,7 @@ The **Turtle Traffic Dodger** project is designed with immersive mechanics that 
 ## 📂 Project Structure
 
 ```
-turtle-traffic-dodger-project/
+Turtle-Traffic-Dodger-Project/
 │
 ├── main.py         # Entry point – initializes and runs the main game loop and integrates all modules
 ├── player.py       # Player class – manages turtle creation, movement, and collision detection
@@ -101,12 +101,12 @@ turtle-traffic-dodger-project/
 
 2. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/turtle-traffic-dodger-project.git
+   git clone https://github.com/your-username/Turtle-Traffic-Dodger-Project.git
    ```
 
 3. **Navigate to the project folder**
    ```bash
-   cd turtle-traffic-dodger-project
+   cd Turtle-Traffic-Dodger-Project
    ```
 
 > 💡 **Optional – Windows Only:** If you encounter errors related to `TCL_LIBRARY` or `TK_LIBRARY`, ensure that your Python installation's Tcl paths are correctly set using `os.environ` at the beginning of your script:
