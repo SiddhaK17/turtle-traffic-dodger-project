@@ -76,12 +76,11 @@ The **Turtle Traffic Dodger** project is designed with immersive mechanics that 
 
 ```
 Turtle-Traffic-Dodger-Project/
-│
-├── main.py         # Entry point – initializes and runs the main game loop and integrates all modules
-├── player.py       # Player class – manages turtle creation, movement, and collision detection
-├── car_manager.py  # CarManager class – handles car generation, movement, and dynamic difficulty scaling
-├── scoreboard.py   # Scoreboard class – tracks levels, displays score, and shows Game Over messages
-└── README.md       # Documentation – provides detailed project overview, setup guide, and technical insights
+    ├── main.py         # Entry point – initializes and runs the main game loop and integrates all modules
+    ├── player.py       # Player class – manages turtle creation, movement, and collision detection
+    ├── car_manager.py  # CarManager class – handles car generation, movement, and dynamic difficulty scaling
+    ├── scoreboard.py   # Scoreboard class – tracks levels, displays score, and shows Game Over messages
+    └── README.md       # Documentation – provides detailed project overview, setup guide, and technical insights
 ```
 
 ---
