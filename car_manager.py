@@ -28,10 +28,15 @@ class CarManager:
         for car in self.all_cars:
             car.backward(self.car_speed)
     
-        self.all_cars = [
-            car for car in self.all_cars
-            if car.xcor() > -320
-        ]
+        remaining_cars = []
+
+        for car in self.all_cars:
+            if car.xcor() > -320:
+                remaining_cars.append(car)
+            else:
+                car.hideturtle()
+        
+        self.all_cars = remaining_cars
 
 
     def level_up(self):
